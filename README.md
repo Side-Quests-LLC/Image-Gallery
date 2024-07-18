@@ -1,1 +1,1 @@
-# Image-Gallery with React and Pexels API
+# Image gallery with React and Pexels API
